@@ -8,11 +8,8 @@ My Login is a Bootstrap Login Page Snippet, you can use it as you wish and it's 
 Let's make it easy! Just download this template, use it on your project.
 
 # Demo
-- [Login](https://2waytoceo.github.io/bootstrap-login-page/index.html)
-- [Register](https://2waytoceo.github.io/bootstrap-login-page/register.html)
-- [Forgot Password](https://2waytoceo.github.io/bootstrap-login-page/forgot.html)
-- [Reset Password](https://2waytoceo.github.io/bootstrap-login-page/reset.html)
-
+- .[Click here to visit](https://2waytoceo.github.io/My-Login/)
+- 
 # Features
 - Bootstrap 4.1.3
 - Bootstrap 4 Validation
@@ -35,7 +32,7 @@ Contribution are always welcome and recommended! Here is how:
 - Create a pull request
 
 # Changelogs
-### Aug 29, 2017
+### July 29, 2023
   **Added**
   * Verified by W3C
   * Bootstrap 4 Validation Form
@@ -43,13 +40,13 @@ Contribution are always welcome and recommended! Here is how:
   **Updated**
   * Bootstrap 4 Version
 
-### Aug 29, 2017
+### July 29, 2023
   - **Initial release**
 
 # Looking For a Free Admin Template?
 Stisla is waiting for you. [Download now](https://stisla.multinity.com).
 
-[![Stisla Preview](https://getstisla.com/landing/stisla-share.png)](https://getstisla.com)
+[!Stisla Preview](https://getstisla.com/landing/stisla-share.png)](https://getstisla.com)
 
 # License
 [MIT License](http://opensource.org/licenses/MIT)
