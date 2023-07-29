@@ -8,8 +8,8 @@ My Login is a Bootstrap Login Page Snippet, you can use it as you wish and it's 
 Let's make it easy! Just download this template, use it on your project.
 
 # Demo
-- .[Click here to visit](https://2waytoceo.github.io/My-Login/)
-- 
+- [Click here to visit](https://2waytoceo.github.io/My-Login/)
+
 # Features
 - Bootstrap 4.1.3
 - Bootstrap 4 Validation
